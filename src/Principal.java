@@ -28,8 +28,9 @@ public class Principal {
 		int despesas = agua + luz + gas + fibra;
 		// TODO MOSTRAR NO ECRA O TOTAL DE DESPESAS
 		
-		System.out.println(despesas);
-		
+		System.out.println(despesas);		
 	}
+	
+	
 
 }
