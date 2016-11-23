@@ -6,7 +6,7 @@ public class Desafios {
 		// TODO Auto-generated constructor stub
 	}
 	/*
-	 * Este exercício visa obter o capacidade do formando dw
+	 * II - Este exercício visa obter o capacidade do formando dw
 	 *  1) declarar e inicializar um array
 	 *  2) utilizar um ciclo devidamente
 	 *  3) obter o valor da soma dos conteúdos do array 
